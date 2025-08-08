@@ -7,3 +7,4 @@ int main()
  printf("The output of addition of two numbers is=%d\n",a+b);
  return 0;
 }
+
