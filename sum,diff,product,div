@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+int a,b;
+printf("Enter two integer:");
+scanf("%d %d,&a,&b):
+printf("Sum of two given number is: %d",a+b);
+printf("difference of two given number is: %d",a-b);
+printf("product of two given number is: %d",a*b);
+if(b!=0)
+printf("Division of two given number is: %d",a/b);
+else
+printf("Division not possible\n");
+return 0;
+}
