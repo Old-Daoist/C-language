@@ -2,7 +2,7 @@
 
 int main()
 {
-    int day;
+    intd ay;
     printf("Enter a number between 1 and 7\n");
     scanf("%d", &day);
 
